@@ -7,5 +7,18 @@
     "banner-1793891742412-2085.jpg",
     "banner-1793891754413-5824.jpg"
   ],
-  "quick": null
+  "quick": [
+    {
+      "label": "Telegram",
+      "url": ""
+    },
+    {
+      "label": "Join Group",
+      "url": "https://t.me/atikffxtopup"
+    },
+    {
+      "label": "YouTube",
+      "url": ""
+    }
+  ]
 }
