@@ -23,6 +23,10 @@
   "images": {
     "pop": "img-pop-1794234088074.png"
   },
-  "prod": null,
+  "prod": {
+    "ff": {
+      "pill": "৫ সেকেন্ডে টপআপ"
+    }
+  },
   "texts": null
 }
