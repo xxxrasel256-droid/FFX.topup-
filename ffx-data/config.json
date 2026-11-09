@@ -28,6 +28,78 @@
       "pill": "৫ সেকেন্ডে টপআপ"
     },
     "uid": {
+      "packages": [
+        {
+          "label": "WEEKLY",
+          "name": "WEEKLY",
+          "price": 153
+        },
+        {
+          "label": "MONTHLY",
+          "name": "MONTHLY",
+          "price": 760
+        },
+        {
+          "label": "25 Diamond",
+          "name": "25 Diamond",
+          "price": 22
+        },
+        {
+          "label": "50 Diamond",
+          "name": "50 Diamond",
+          "price": 36
+        },
+        {
+          "label": "115 Diamond",
+          "name": "115 Diamond",
+          "price": 79
+        },
+        {
+          "label": "240 Diamond",
+          "name": "240 Diamond",
+          "price": 158
+        },
+        {
+          "label": "355 Diamond",
+          "name": "355 Diamond",
+          "price": 237
+        },
+        {
+          "label": "480 Diamond",
+          "name": "480 Diamond",
+          "price": 316
+        },
+        {
+          "label": "610 Diamond",
+          "name": "610 Diamond",
+          "price": 400
+        },
+        {
+          "label": "850 Diamond",
+          "name": "850 Diamond",
+          "price": 558
+        },
+        {
+          "label": "1240 Diamond",
+          "name": "1240 Diamond",
+          "price": 800
+        },
+        {
+          "label": "2530 Diamond",
+          "name": "2530 Diamond",
+          "price": 1610
+        },
+        {
+          "label": "5060 Diamond",
+          "name": "5060 Diamond",
+          "price": 3220
+        },
+        {
+          "label": "10120 Diamond",
+          "name": "10120 Diamond",
+          "price": 6440
+        }
+      ],
       "rules": [
         "সঠিক প্লেয়ার আইডি দিয়ে অর্ডার করুন। ভুল আইডিতে টপআপ হয়ে গেলে কর্তৃপক্ষ দায়ী থাকবে না।",
         "অর্ডার করার আগে আইডির নাম চেক করে নিন।",
