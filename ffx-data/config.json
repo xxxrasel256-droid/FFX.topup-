@@ -35,6 +35,45 @@
         "একবার অর্ডার সাবমিট করার পর বাতিল বা রিফান্ড করা হয় না।",
         "যেকোনো সমস্যায় অর্ডারের স্ক্রিনশট সহ টেলিগ্রামে যোগাযোগ করুন।"
       ]
+    },
+    "wm": {
+      "packages": [
+        {
+          "label": "WEEKLY",
+          "name": "WEEKLY",
+          "price": 153
+        },
+        {
+          "label": "2X WEEKLY",
+          "name": "2X WEEKLY",
+          "price": 305
+        },
+        {
+          "label": "3X WEEKLY",
+          "name": "3X WEEKLY",
+          "price": 465
+        },
+        {
+          "label": "MONTHLY",
+          "name": "MONTHLY",
+          "price": 770
+        },
+        {
+          "label": "2X MONTHLY",
+          "name": "2X MONTHLY",
+          "price": 1540
+        },
+        {
+          "label": "1X WEEKLY+1X MONTHLY",
+          "name": "1X WEEKLY+1X MONTHLY",
+          "price": 925
+        },
+        {
+          "label": "3X WEEKLY+1X MONTHLY",
+          "name": "3X WEEKLY+1X MONTHLY",
+          "price": 1235
+        }
+      ]
     }
   },
   "texts": null
