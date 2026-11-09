@@ -1,7 +1,6 @@
 {
   "logo": null,
   "ffBanner": null,
-  "ffPackages": null,
   "banners": [
     "banner-1793891656942-3908.jpg",
     "banner-1793891742412-2085.jpg",
@@ -20,5 +19,8 @@
       "label": "YouTube",
       "url": "https://youtube.com/@7s_freestyle_yt?si=2bdw0ntTN8vjqERD"
     }
-  ]
+  ],
+  "images": null,
+  "prod": null,
+  "texts": null
 }
